@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name: WPS Exclude Products by meta
- * Plugin URI: https://github.com/geotsiokos/wps-pos-visibility-options/blob/master/wps-pos-visibility-options.php
- * Description: Exclude Exclude Products by meta from search results when using the Product Search Field by <a href="https://woo.com/products/woocommerce-product-search/">WooCommerce Product Search</a>
+ * Plugin URI: https://github.com/geotsiokos/wps-exclude-products-by-meta/tree/master
+ * Description: Exclude Products by meta from search results when using the Product Search Field by <a href="https://woo.com/products/woocommerce-product-search/">WooCommerce Product Search</a>
  * Version: 1.0.0
  * Author: gtsiokos
  * Author URI: http://www.netpad.gr
